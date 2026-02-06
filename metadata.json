@@ -1,0 +1,8 @@
+{
+  "name": "2k11",
+  "description": "An AI-powered Korean-style pastel photobook with image generation, smart captions, and magical narration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
